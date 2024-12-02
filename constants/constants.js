@@ -1,5 +1,6 @@
-export const ROLES = {
-    ADMIN: 1,
-    EMPLOYEE: 2,
-    CLIENT: 3
+export const CATEGORIES = {
+    ESTRATEGIA: 'Estrategia',
+    ROL: 'Rol',
+    CARTAS: 'Cartas',
+    FAMILIAR: 'Familiar'
 }
